@@ -1,4 +1,6 @@
-# Hi there, I'm Christian Hare 👋
+![Header Image](./headImage.png)
+
+# Hi there, I'm Christan Hare 👋
 
 I'm a passionate full-stack software engineer with a background in Electronic and Electrical Engineering, skilled in web development, software engineering, graphics, and interactive media across diverse industries.
 
