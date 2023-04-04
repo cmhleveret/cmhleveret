@@ -1,4 +1,4 @@
-![Header Image](./headImage2.png)
+![Header Image](./headImage3.png)
 
 # Hi there, I'm Christan Hare 👋
 
