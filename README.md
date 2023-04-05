@@ -2,14 +2,14 @@
 
 # Hi there, I'm Christan Hare 👋
 
-I'm a passionate full-stack software engineer with a background in Electronic and Electrical Engineering, skilled in web development, software engineering, graphics, and interactive media across diverse industries.
+I'm a passionate full-stack software engineer with a background in Electronic and Electrical Engineering, skilled in web development, software engineering, graphics and interactive media across anumber of diverse industries.
 
-- 🔭 I’m currently working on mastering TypeScript, React, and Next.js
-- 🌱 I’m always learning and improving my skills
-- 👯 I'm a strong believer in collaboration and teamwork
+- 🔭 Currently working on mastering TypeScript, React, and Next.js
+- 🌱 Always learning and improving my skills
+- 👯 A strong believer in collaboration and teamwork
 - 📫 How to reach me: cmhleveret@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy 3D modeling, animation, and CAD/CAM methods in my free time
+- ⚡ Fun fact: I enjoy CAD/CAM, 3D modeling and animation in my free time
 
 ## 🛠 Skills
 
@@ -20,12 +20,12 @@ I'm a passionate full-stack software engineer with a background in Electronic an
 - Frameworks and Libraries: React, Bootstrap, Node, Next.js, TRPC, Tailwind.css, Express, Spring Boot, Three.js, CanvasSketch, WebGL, React Native
 - Version Control (Git)
 - Design and Prototyping Tools: Figma, Trello, Blender, Fusion 360, Metashape
-- Audio/Visual Editing and Design (Adobe Suite: Photoshop, After Effects, Animate, Illustrator)
-- Microcontroller Programming (Arduino, Raspberry Pi)
+- Audio/Visual Editing and Design. Adobe Suite: Photoshop, After Effects, Animate, Illustrator
+- Microcontroller Programming (Arduino, Raspberry Pi, ESP)
 
 ## 📚 Education
 
-- BEng (Hons) Electronic & Electrical Engineering, University of Sheffield, Sheffield, UK (2016-2020)
+- First Class, BEng (Hons) Electronic & Electrical Engineering, University of Sheffield, Sheffield, UK (2016-2020)
 
 ## 💼 Employment History
 
