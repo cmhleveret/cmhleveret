@@ -24,7 +24,7 @@ I'm a passionate full-stack software engineer with a background in Electronic an
 - Microcontroller Programming (Arduino, Raspberry Pi, ESP)
 
 ## 📚 Education
-
+- Full Stack Web development bootcamp provided bt Ey-Up & WanDisco
 - First Class, BEng (Hons) Electronic & Electrical Engineering, University of Sheffield, Sheffield, UK (2016-2020)
 
 ## 💼 Employment History
